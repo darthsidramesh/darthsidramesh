@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darthsidramesh
+- 👋 Hi, I’m Sid!
 - 👀 I’m interested in Deep Learning, software development, movies, videogames, basketball, and ways to combine my interests on Github! 
 - 📫 How to reach me - siddarth.ramesh@gmail.com
 
